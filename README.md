@@ -24,8 +24,8 @@ Je souhaite participer à des projets innovants dans le domaine des jeux vidéo 
 ---
 
 ## 📫 Comment me contacter ?  
-- **Email :** karimabousfer7@gmail.com 
-- **GitHub :** [Ajoutez le lien de votre compte GitHub ici]  
+- **Email :** [karimabousfer7@gmail.com](mailto:karimabousfer7@gmail.com)  
+- **GitHub :** [https://github.com/Karimabousfer](https://github.com/Karimabousfer)
 
 ---
 
@@ -37,3 +37,4 @@ Je souhaite participer à des projets innovants dans le domaine des jeux vidéo 
 ---
 
 ### 🚀 Bienvenue dans mon univers créatif !
+
